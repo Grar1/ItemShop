@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_714_Athena_Commando_M_AnarchyAcresFarmer, 1000
+CID_022_Athena_Commando_F, 900
 na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+CID_185_Athena_Commando_M_DurrburgerHero, 1200
+CID_061_Athena_Commando_F_SkiGirl, 2000
+CID_698_Athena_Commando_M_CuteDuo, 750
+CID_577_Athena_Commando_F_CODSquadPlaid, 1150
+CID_598_Athena_Commando_M_Mastermind, 800
+CID_046_Athena_Commando_F_HolidaySweater, 1050
